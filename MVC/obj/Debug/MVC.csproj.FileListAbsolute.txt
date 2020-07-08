@@ -1,0 +1,1634 @@
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\MVC.dll.config
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\MVC.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\MVC.pdb
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\roslyn\csc.exe
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\roslyn\csc.exe.config
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\roslyn\csc.rsp
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\roslyn\csi.exe
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\roslyn\csi.exe.config
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\roslyn\csi.rsp
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\roslyn\Microsoft.Managed.Core.targets
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\roslyn\System.AppContext.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\roslyn\System.Collections.Immutable.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\roslyn\System.Console.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\roslyn\System.IO.Compression.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\roslyn\System.IO.FileSystem.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\roslyn\System.IO.Pipes.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\roslyn\System.Reflection.Metadata.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\roslyn\System.Security.AccessControl.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\roslyn\System.Security.Claims.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\roslyn\System.Security.Principal.Windows.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\roslyn\System.ValueTuple.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\roslyn\System.Xml.XmlDocument.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\roslyn\System.Xml.XPath.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\roslyn\vbc.exe
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\roslyn\vbc.exe.config
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\roslyn\vbc.rsp
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\roslyn\VBCSCompiler.exe
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\roslyn\VBCSCompiler.exe.config
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\Antlr3.Runtime.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\Dominio.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\EntityFramework.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\EntityFramework.SqlServer.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\Microsoft.Web.Infrastructure.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\Newtonsoft.Json.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\System.Web.Helpers.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\System.Web.Mvc.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\System.Web.Optimization.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\System.Web.Razor.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\System.Web.WebPages.Deployment.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\System.Web.WebPages.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\System.Web.WebPages.Razor.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\WebGrease.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\Dominio.pdb
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\Dominio.dll.config
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\EntityFramework.xml
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\EntityFramework.SqlServer.xml
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\System.Web.Helpers.xml
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\System.Web.Mvc.xml
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\System.Web.Optimization.xml
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\System.Web.Razor.xml
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\System.Web.WebPages.xml
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\System.Web.WebPages.Deployment.xml
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\System.Web.WebPages.Razor.xml
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\Newtonsoft.Json.xml
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\Antlr3.Runtime.pdb
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\es\System.Web.Helpers.resources.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\es\System.Web.Mvc.resources.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\es\System.Web.Optimization.resources.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\es\System.Web.Razor.resources.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\es\System.Web.WebPages.resources.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\obj\Debug\MVC.csprojAssemblyReference.cache
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\obj\Debug\MVC.csproj.CoreCompileInputs.cache
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\obj\Debug\MVC.csproj.CopyComplete
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\obj\Debug\MVC.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\MVC\obj\Debug\MVC.pdb
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\obj\Debug\MVC.csprojAssemblyReference.cache
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\MVC.dll.config
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\MVC.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\MVC.pdb
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\Antlr3.Runtime.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\Dominio.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\EntityFramework.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\Newtonsoft.Json.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\System.Web.Helpers.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\System.Web.Mvc.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\System.Web.Optimization.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\System.Web.Razor.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\System.Web.WebPages.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\WebGrease.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\Dominio.pdb
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\Dominio.dll.config
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\EntityFramework.xml
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\System.Web.Helpers.xml
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\System.Web.Mvc.xml
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\System.Web.Optimization.xml
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\System.Web.Razor.xml
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\System.Web.WebPages.xml
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\Newtonsoft.Json.xml
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\Antlr3.Runtime.pdb
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\es\System.Web.Razor.resources.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\obj\Debug\MVC.csproj.CopyComplete
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\obj\Debug\MVC.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\obj\Debug\MVC.pdb
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\roslyn\csc.exe
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\roslyn\csc.exe.config
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\roslyn\csc.rsp
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\roslyn\csi.exe
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\roslyn\csi.exe.config
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\roslyn\csi.rsp
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\roslyn\System.AppContext.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\roslyn\System.Console.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\roslyn\System.Security.Claims.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\roslyn\vbc.exe
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\roslyn\vbc.exe.config
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\roslyn\vbc.rsp
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\MVC\bin\roslyn\VBCSCompiler.exe.config
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\MVC.dll.config
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\MVC.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\MVC.pdb
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\roslyn\csc.exe
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\roslyn\csc.exe.config
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\roslyn\csc.rsp
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\roslyn\csi.exe
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\roslyn\csi.exe.config
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\roslyn\csi.rsp
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\roslyn\Microsoft.Managed.Core.targets
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\roslyn\System.AppContext.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\roslyn\System.Collections.Immutable.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\roslyn\System.Console.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\roslyn\System.IO.Compression.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\roslyn\System.IO.FileSystem.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\roslyn\System.IO.Pipes.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\roslyn\System.Reflection.Metadata.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\roslyn\System.Security.AccessControl.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\roslyn\System.Security.Claims.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\roslyn\System.Security.Principal.Windows.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\roslyn\System.ValueTuple.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\roslyn\System.Xml.XmlDocument.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\roslyn\System.Xml.XPath.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\roslyn\vbc.exe
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\roslyn\vbc.exe.config
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\roslyn\vbc.rsp
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\roslyn\VBCSCompiler.exe
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\roslyn\VBCSCompiler.exe.config
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\Antlr3.Runtime.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\Dominio.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\EntityFramework.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\EntityFramework.SqlServer.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\Microsoft.Web.Infrastructure.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\Newtonsoft.Json.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\System.Web.Helpers.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\System.Web.Mvc.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\System.Web.Optimization.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\System.Web.Razor.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\System.Web.WebPages.Deployment.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\System.Web.WebPages.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\System.Web.WebPages.Razor.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\WebGrease.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\Dominio.pdb
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\Dominio.dll.config
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\EntityFramework.xml
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\EntityFramework.SqlServer.xml
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\System.Web.Helpers.xml
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\System.Web.Mvc.xml
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\System.Web.Optimization.xml
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\System.Web.Razor.xml
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\System.Web.WebPages.xml
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\System.Web.WebPages.Deployment.xml
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\System.Web.WebPages.Razor.xml
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\Newtonsoft.Json.xml
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\Antlr3.Runtime.pdb
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\es\System.Web.Helpers.resources.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\es\System.Web.Mvc.resources.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\es\System.Web.Optimization.resources.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\es\System.Web.Razor.resources.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\es\System.Web.WebPages.resources.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\obj\Debug\MVC.csprojAssemblyReference.cache
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\obj\Debug\MVC.csproj.CoreCompileInputs.cache
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\obj\Debug\MVC.csproj.CopyComplete
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\obj\Debug\MVC.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\MVC\obj\Debug\MVC.pdb
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\MVC.dll.config
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\MVC.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\MVC.pdb
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\csc.exe
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\csc.exe.config
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\csc.rsp
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\csi.exe
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\csi.exe.config
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\csi.rsp
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\System.AppContext.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\System.Console.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\System.Security.Claims.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\vbc.exe
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\vbc.exe.config
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\vbc.rsp
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\Antlr3.Runtime.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\Dominio.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\EntityFramework.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\Newtonsoft.Json.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\System.Web.Helpers.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\System.Web.Mvc.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\System.Web.Optimization.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\System.Web.Razor.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\System.Web.WebPages.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\WebGrease.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\Dominio.pdb
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\Dominio.dll.config
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\EntityFramework.xml
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\System.Web.Helpers.xml
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\System.Web.Mvc.xml
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\System.Web.Optimization.xml
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\System.Web.Razor.xml
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\System.Web.WebPages.xml
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\Newtonsoft.Json.xml
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\Antlr3.Runtime.pdb
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\es\System.Web.Razor.resources.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\obj\Debug\MVC.csprojAssemblyReference.cache
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\obj\Debug\MVC.csproj.CopyComplete
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\obj\Debug\MVC.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\MVC\obj\Debug\MVC.pdb
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\MVC.dll.config
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\MVC.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\MVC.pdb
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\csc.exe
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\csc.exe.config
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\csc.rsp
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\csi.exe
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\csi.exe.config
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\csi.rsp
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\System.AppContext.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\System.Console.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\System.Security.Claims.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\vbc.exe
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\vbc.exe.config
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\vbc.rsp
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\Antlr3.Runtime.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\Dominio.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\EntityFramework.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\Newtonsoft.Json.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\System.Web.Helpers.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\System.Web.Mvc.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\System.Web.Optimization.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\System.Web.Razor.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\System.Web.WebPages.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\WebGrease.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\Dominio.pdb
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\Dominio.dll.config
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\EntityFramework.xml
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\System.Web.Helpers.xml
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\System.Web.Mvc.xml
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\System.Web.Optimization.xml
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\System.Web.Razor.xml
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\System.Web.WebPages.xml
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\Newtonsoft.Json.xml
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\Antlr3.Runtime.pdb
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\es\System.Web.Razor.resources.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\obj\Debug\MVC.csprojAssemblyReference.cache
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\obj\Debug\MVC.csproj.CoreCompileInputs.cache
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\obj\Debug\MVC.csproj.CopyComplete
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\obj\Debug\MVC.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\MVC\obj\Debug\MVC.pdb
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\MVC.dll.config
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\MVC.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\MVC.pdb
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\roslyn\csc.exe
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\roslyn\csc.exe.config
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\roslyn\csc.rsp
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\roslyn\csi.exe
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\roslyn\csi.exe.config
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\roslyn\csi.rsp
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\roslyn\System.AppContext.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\roslyn\System.Console.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\roslyn\System.IO.Pipes.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\roslyn\System.Security.Claims.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\roslyn\vbc.exe
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\roslyn\vbc.exe.config
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\roslyn\vbc.rsp
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\Antlr3.Runtime.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\Dominio.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\EntityFramework.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\Newtonsoft.Json.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\System.Web.Helpers.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\System.Web.Mvc.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\System.Web.Optimization.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\System.Web.Razor.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\System.Web.WebPages.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\WebGrease.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\Dominio.pdb
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\Dominio.dll.config
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\EntityFramework.xml
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\System.Web.Helpers.xml
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\System.Web.Mvc.xml
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\System.Web.Optimization.xml
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\System.Web.Razor.xml
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\System.Web.WebPages.xml
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\Newtonsoft.Json.xml
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\Antlr3.Runtime.pdb
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\es\System.Web.Helpers.resources.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\es\System.Web.Mvc.resources.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\es\System.Web.Optimization.resources.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\es\System.Web.Razor.resources.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\es\System.Web.WebPages.resources.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\obj\Debug\MVC.csprojAssemblyReference.cache
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\obj\Debug\MVC.csproj.CoreCompileInputs.cache
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\obj\Debug\MVC.csproj.CopyComplete
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\obj\Debug\MVC.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\MVC\obj\Debug\MVC.pdb
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\MVC.dll.config
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\MVC.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\MVC.pdb
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\roslyn\csc.exe
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\roslyn\csc.exe.config
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\roslyn\csc.rsp
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\roslyn\csi.exe
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\roslyn\csi.exe.config
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\roslyn\csi.rsp
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\roslyn\System.AppContext.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\roslyn\System.Console.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\roslyn\System.IO.Pipes.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\roslyn\System.Security.Claims.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\roslyn\vbc.exe
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\roslyn\vbc.exe.config
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\roslyn\vbc.rsp
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\Antlr3.Runtime.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\Dominio.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\EntityFramework.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\Newtonsoft.Json.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\System.Web.Helpers.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\System.Web.Mvc.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\System.Web.Optimization.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\System.Web.Razor.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\System.Web.WebPages.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\WebGrease.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\Dominio.pdb
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\Dominio.dll.config
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\EntityFramework.xml
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\System.Web.Helpers.xml
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\System.Web.Mvc.xml
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\System.Web.Optimization.xml
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\System.Web.Razor.xml
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\System.Web.WebPages.xml
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\Newtonsoft.Json.xml
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\Antlr3.Runtime.pdb
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\es\System.Web.Helpers.resources.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\es\System.Web.Mvc.resources.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\es\System.Web.Optimization.resources.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\es\System.Web.Razor.resources.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\es\System.Web.WebPages.resources.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\obj\Debug\MVC.csprojAssemblyReference.cache
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\obj\Debug\MVC.csproj.CoreCompileInputs.cache
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\obj\Debug\MVC.csproj.CopyComplete
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\obj\Debug\MVC.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\MVC\obj\Debug\MVC.pdb
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\MVC.dll.config
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\MVC.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\MVC.pdb
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\roslyn\csc.exe
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\roslyn\csc.exe.config
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\roslyn\csc.rsp
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\roslyn\csi.exe
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\roslyn\csi.exe.config
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\roslyn\csi.rsp
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\roslyn\System.AppContext.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\roslyn\System.Console.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\roslyn\System.IO.Pipes.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\roslyn\System.Security.Claims.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\roslyn\vbc.exe
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\roslyn\vbc.exe.config
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\roslyn\vbc.rsp
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\Antlr3.Runtime.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\Dominio.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\EntityFramework.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\Newtonsoft.Json.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\System.Web.Helpers.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\System.Web.Mvc.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\System.Web.Optimization.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\System.Web.Razor.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\System.Web.WebPages.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\WebGrease.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\Dominio.pdb
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\Dominio.dll.config
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\EntityFramework.xml
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\System.Web.Helpers.xml
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\System.Web.Mvc.xml
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\System.Web.Optimization.xml
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\System.Web.Razor.xml
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\System.Web.WebPages.xml
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\Newtonsoft.Json.xml
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\Antlr3.Runtime.pdb
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\es\System.Web.Helpers.resources.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\es\System.Web.Mvc.resources.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\es\System.Web.Optimization.resources.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\es\System.Web.Razor.resources.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\es\System.Web.WebPages.resources.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\obj\Debug\MVC.csprojAssemblyReference.cache
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\obj\Debug\MVC.csproj.CoreCompileInputs.cache
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\obj\Debug\MVC.csproj.CopyComplete
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\obj\Debug\MVC.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.2\MVC\obj\Debug\MVC.pdb
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\MVC.dll.config
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\MVC.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\MVC.pdb
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\roslyn\csc.exe
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\roslyn\csc.exe.config
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\roslyn\csc.rsp
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\roslyn\csi.exe
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\roslyn\csi.exe.config
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\roslyn\csi.rsp
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\roslyn\System.AppContext.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\roslyn\System.Console.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\roslyn\System.IO.Pipes.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\roslyn\System.Security.Claims.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\roslyn\vbc.exe
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\roslyn\vbc.exe.config
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\roslyn\vbc.rsp
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\Antlr3.Runtime.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\Dominio.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\EntityFramework.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\Newtonsoft.Json.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\System.Web.Helpers.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\System.Web.Mvc.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\System.Web.Optimization.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\System.Web.Razor.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\System.Web.WebPages.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\WebGrease.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\Dominio.pdb
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\Dominio.dll.config
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\EntityFramework.xml
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\System.Web.Helpers.xml
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\System.Web.Mvc.xml
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\System.Web.Optimization.xml
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\System.Web.Razor.xml
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\System.Web.WebPages.xml
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\Newtonsoft.Json.xml
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\Antlr3.Runtime.pdb
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\es\System.Web.Helpers.resources.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\es\System.Web.Mvc.resources.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\es\System.Web.Optimization.resources.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\es\System.Web.Razor.resources.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\es\System.Web.WebPages.resources.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\obj\Debug\MVC.csprojAssemblyReference.cache
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\obj\Debug\MVC.csproj.CoreCompileInputs.cache
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\obj\Debug\MVC.csproj.CopyComplete
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\obj\Debug\MVC.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\MVC\obj\Debug\MVC.pdb
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\MVC.dll.config
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\MVC.dll
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\MVC.pdb
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\roslyn\csc.exe
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\roslyn\csc.exe.config
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\roslyn\csc.rsp
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\roslyn\csi.exe
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\roslyn\csi.exe.config
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\roslyn\csi.rsp
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\roslyn\System.AppContext.dll
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\roslyn\System.Console.dll
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\roslyn\System.IO.Pipes.dll
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\roslyn\System.Security.Claims.dll
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\roslyn\vbc.exe
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\roslyn\vbc.exe.config
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\roslyn\vbc.rsp
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\Antlr3.Runtime.dll
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\Dominio.dll
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\EntityFramework.dll
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\Newtonsoft.Json.dll
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\System.Web.Helpers.dll
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\System.Web.Mvc.dll
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\System.Web.Optimization.dll
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\System.Web.Razor.dll
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\System.Web.WebPages.dll
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\WebGrease.dll
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\Dominio.pdb
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\Dominio.dll.config
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\EntityFramework.xml
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\System.Web.Helpers.xml
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\System.Web.Mvc.xml
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\System.Web.Optimization.xml
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\System.Web.Razor.xml
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\System.Web.WebPages.xml
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\Newtonsoft.Json.xml
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\Antlr3.Runtime.pdb
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\es\System.Web.Helpers.resources.dll
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\es\System.Web.Mvc.resources.dll
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\es\System.Web.Optimization.resources.dll
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\es\System.Web.Razor.resources.dll
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\es\System.Web.WebPages.resources.dll
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\obj\Debug\MVC.csprojAssemblyReference.cache
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\obj\Debug\MVC.csproj.CoreCompileInputs.cache
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\obj\Debug\MVC.csproj.CopyComplete
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\obj\Debug\MVC.dll
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\MVC\obj\Debug\MVC.pdb
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\MVC.dll.config
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\MVC.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\MVC.pdb
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\roslyn\csc.exe
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\roslyn\csc.exe.config
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\roslyn\csc.rsp
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\roslyn\csi.exe
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\roslyn\csi.exe.config
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\roslyn\csi.rsp
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\roslyn\System.AppContext.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\roslyn\System.Console.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\roslyn\System.IO.Pipes.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\roslyn\System.Security.Claims.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\roslyn\vbc.exe
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\roslyn\vbc.exe.config
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\roslyn\vbc.rsp
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\Antlr3.Runtime.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\Dominio.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\EntityFramework.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\Newtonsoft.Json.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\System.Net.Http.Formatting.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\System.Web.Helpers.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\System.Web.Mvc.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\System.Web.Optimization.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\System.Web.Razor.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\System.Web.WebPages.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\WebGrease.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\Dominio.pdb
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\Dominio.dll.config
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\EntityFramework.xml
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\System.Net.Http.Formatting.xml
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\System.Web.Helpers.xml
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\System.Web.Mvc.xml
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\System.Web.Optimization.xml
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\System.Web.Razor.xml
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\System.Web.WebPages.xml
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\Newtonsoft.Json.xml
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\Antlr3.Runtime.pdb
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\es\System.Web.Helpers.resources.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\es\System.Web.Mvc.resources.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\es\System.Web.Optimization.resources.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\es\System.Web.Razor.resources.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\es\System.Web.WebPages.resources.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\obj\Debug\MVC.csprojAssemblyReference.cache
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\obj\Debug\MVC.csproj.CoreCompileInputs.cache
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\obj\Debug\MVC.csproj.CopyComplete
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\obj\Debug\MVC.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\MVC\obj\Debug\MVC.pdb
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\MVC.dll.config
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\MVC.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\MVC.pdb
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\roslyn\csc.exe
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\roslyn\csc.exe.config
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\roslyn\csc.rsp
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\roslyn\csi.exe
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\roslyn\csi.exe.config
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\roslyn\csi.rsp
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\roslyn\System.AppContext.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\roslyn\System.Console.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\roslyn\System.IO.Pipes.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\roslyn\System.Security.Claims.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\roslyn\vbc.exe
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\roslyn\vbc.exe.config
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\roslyn\vbc.rsp
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\Antlr3.Runtime.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\Dominio.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\EntityFramework.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\Newtonsoft.Json.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\System.Net.Http.Formatting.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\System.Web.Helpers.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\System.Web.Mvc.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\System.Web.Optimization.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\System.Web.Razor.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\System.Web.WebPages.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\WebGrease.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\Dominio.pdb
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\Dominio.dll.config
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\EntityFramework.xml
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\System.Net.Http.Formatting.xml
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\System.Web.Helpers.xml
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\System.Web.Mvc.xml
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\System.Web.Optimization.xml
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\System.Web.Razor.xml
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\System.Web.WebPages.xml
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\Newtonsoft.Json.xml
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\Antlr3.Runtime.pdb
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\es\System.Web.Helpers.resources.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\es\System.Web.Mvc.resources.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\es\System.Web.Optimization.resources.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\es\System.Web.Razor.resources.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\es\System.Web.WebPages.resources.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\obj\Debug\MVC.csprojAssemblyReference.cache
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\obj\Debug\MVC.csproj.CoreCompileInputs.cache
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\obj\Debug\MVC.csproj.CopyComplete
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\obj\Debug\MVC.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\MVC\obj\Debug\MVC.pdb
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\MVC.dll.config
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\MVC.dll
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\MVC.pdb
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\roslyn\csc.exe
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\roslyn\csc.exe.config
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\roslyn\csc.rsp
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\roslyn\csi.exe
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\roslyn\csi.exe.config
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\roslyn\csi.rsp
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\roslyn\System.AppContext.dll
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\roslyn\System.Console.dll
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\roslyn\System.IO.Pipes.dll
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\roslyn\System.Security.Claims.dll
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\roslyn\vbc.exe
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\roslyn\vbc.exe.config
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\roslyn\vbc.rsp
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\Antlr3.Runtime.dll
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\Dominio.dll
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\EntityFramework.dll
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\Newtonsoft.Json.dll
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\System.Net.Http.Formatting.dll
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\System.Web.Helpers.dll
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\System.Web.Mvc.dll
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\System.Web.Optimization.dll
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\System.Web.Razor.dll
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\System.Web.WebPages.dll
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\WebGrease.dll
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\Dominio.pdb
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\Dominio.dll.config
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\EntityFramework.xml
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\System.Net.Http.Formatting.xml
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\System.Web.Helpers.xml
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\System.Web.Mvc.xml
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\System.Web.Optimization.xml
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\System.Web.Razor.xml
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\System.Web.WebPages.xml
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\Newtonsoft.Json.xml
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\Antlr3.Runtime.pdb
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\es\System.Web.Helpers.resources.dll
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\es\System.Web.Mvc.resources.dll
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\es\System.Web.Optimization.resources.dll
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\es\System.Web.Razor.resources.dll
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\es\System.Web.WebPages.resources.dll
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\obj\Debug\MVC.csprojAssemblyReference.cache
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\obj\Debug\MVC.csproj.CoreCompileInputs.cache
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\obj\Debug\MVC.csproj.CopyComplete
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\obj\Debug\MVC.dll
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\MVC\obj\Debug\MVC.pdb
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\MVC.dll.config
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\MVC.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\MVC.pdb
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\roslyn\csc.exe
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\roslyn\csc.exe.config
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\roslyn\csc.rsp
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\roslyn\csi.exe
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\roslyn\csi.exe.config
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\roslyn\csi.rsp
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\roslyn\Microsoft.Managed.Core.targets
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\roslyn\System.AppContext.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\roslyn\System.Collections.Immutable.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\roslyn\System.Console.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\roslyn\System.IO.Compression.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\roslyn\System.IO.FileSystem.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\roslyn\System.IO.Pipes.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\roslyn\System.Reflection.Metadata.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\roslyn\System.Security.AccessControl.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\roslyn\System.Security.Claims.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\roslyn\System.Security.Principal.Windows.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\roslyn\System.ValueTuple.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\roslyn\System.Xml.XmlDocument.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\roslyn\System.Xml.XPath.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\roslyn\vbc.exe
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\roslyn\vbc.exe.config
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\roslyn\vbc.rsp
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\roslyn\VBCSCompiler.exe
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\roslyn\VBCSCompiler.exe.config
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\Antlr3.Runtime.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\Dominio.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\EntityFramework.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\EntityFramework.SqlServer.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\Microsoft.Web.Infrastructure.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\Newtonsoft.Json.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\System.Net.Http.Formatting.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\System.Web.Helpers.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\System.Web.Mvc.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\System.Web.Optimization.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\System.Web.Razor.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\System.Web.WebPages.Deployment.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\System.Web.WebPages.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\System.Web.WebPages.Razor.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\WebGrease.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\Dominio.pdb
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\Dominio.dll.config
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\EntityFramework.xml
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\EntityFramework.SqlServer.xml
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\System.Net.Http.Formatting.xml
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\System.Web.Helpers.xml
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\System.Web.Mvc.xml
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\System.Web.Optimization.xml
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\System.Web.Razor.xml
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\System.Web.WebPages.xml
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\System.Web.WebPages.Deployment.xml
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\System.Web.WebPages.Razor.xml
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\Newtonsoft.Json.xml
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\Antlr3.Runtime.pdb
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\es\System.Web.Helpers.resources.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\es\System.Web.Mvc.resources.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\es\System.Web.Optimization.resources.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\es\System.Web.Razor.resources.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\es\System.Web.WebPages.resources.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\obj\Debug\MVC.csprojAssemblyReference.cache
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\obj\Debug\MVC.csproj.CoreCompileInputs.cache
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\obj\Debug\MVC.csproj.CopyComplete
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\obj\Debug\MVC.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\MVC\obj\Debug\MVC.pdb
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\MVC.dll.config
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\MVC.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\MVC.pdb
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\Antlr3.Runtime.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\Dominio.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\EntityFramework.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\EntityFramework.SqlServer.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\Microsoft.Web.Infrastructure.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\Newtonsoft.Json.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\System.Net.Http.Formatting.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\System.Web.Helpers.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\System.Web.Mvc.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\System.Web.Optimization.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\System.Web.Razor.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\System.Web.WebPages.Deployment.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\System.Web.WebPages.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\System.Web.WebPages.Razor.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\WebGrease.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\Dominio.pdb
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\Dominio.dll.config
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\EntityFramework.xml
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\EntityFramework.SqlServer.xml
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\System.Net.Http.Formatting.xml
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\System.Web.Helpers.xml
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\System.Web.Mvc.xml
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\System.Web.Optimization.xml
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\System.Web.Razor.xml
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\System.Web.WebPages.xml
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\System.Web.WebPages.Deployment.xml
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\System.Web.WebPages.Razor.xml
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\Newtonsoft.Json.xml
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\Antlr3.Runtime.pdb
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\es\System.Web.Helpers.resources.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\es\System.Web.Mvc.resources.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\es\System.Web.Optimization.resources.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\es\System.Web.Razor.resources.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\es\System.Web.WebPages.resources.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\obj\Debug\MVC.csprojAssemblyReference.cache
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\obj\Debug\MVC.csproj.CoreCompileInputs.cache
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\obj\Debug\MVC.csproj.CopyComplete
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\obj\Debug\MVC.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\obj\Debug\MVC.pdb
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\roslyn\csc.exe
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\roslyn\csc.exe.config
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\roslyn\csc.rsp
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\roslyn\csi.exe
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\roslyn\csi.exe.config
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\roslyn\csi.rsp
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\roslyn\Microsoft.Managed.Core.targets
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\roslyn\System.AppContext.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\roslyn\System.Collections.Immutable.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\roslyn\System.Console.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\roslyn\System.IO.Compression.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\roslyn\System.IO.FileSystem.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\roslyn\System.IO.Pipes.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\roslyn\System.Reflection.Metadata.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\roslyn\System.Security.AccessControl.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\roslyn\System.Security.Claims.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\roslyn\System.Security.Principal.Windows.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\roslyn\System.ValueTuple.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\roslyn\System.Xml.XmlDocument.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\roslyn\System.Xml.XPath.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\roslyn\vbc.exe
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\roslyn\vbc.exe.config
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\roslyn\vbc.rsp
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\roslyn\VBCSCompiler.exe
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\MVC\bin\roslyn\VBCSCompiler.exe.config
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\MVC.dll.config
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\MVC.dll
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\MVC.pdb
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\roslyn\csc.exe
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\roslyn\csc.exe.config
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\roslyn\csc.rsp
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\roslyn\csi.exe
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\roslyn\csi.exe.config
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\roslyn\csi.rsp
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\roslyn\Microsoft.Managed.Core.targets
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\roslyn\System.AppContext.dll
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\roslyn\System.Collections.Immutable.dll
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\roslyn\System.Console.dll
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\roslyn\System.IO.Compression.dll
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\roslyn\System.IO.FileSystem.dll
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\roslyn\System.IO.Pipes.dll
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\roslyn\System.Reflection.Metadata.dll
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\roslyn\System.Security.AccessControl.dll
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\roslyn\System.Security.Claims.dll
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\roslyn\System.Security.Principal.Windows.dll
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\roslyn\System.ValueTuple.dll
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\roslyn\System.Xml.XmlDocument.dll
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\roslyn\System.Xml.XPath.dll
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\roslyn\vbc.exe
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\roslyn\vbc.exe.config
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\roslyn\vbc.rsp
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\roslyn\VBCSCompiler.exe
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\roslyn\VBCSCompiler.exe.config
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\Antlr3.Runtime.dll
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\Dominio.dll
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\EntityFramework.dll
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\EntityFramework.SqlServer.dll
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\Microsoft.Web.Infrastructure.dll
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\Newtonsoft.Json.dll
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\System.Net.Http.Formatting.dll
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\System.Web.Helpers.dll
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\System.Web.Mvc.dll
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\System.Web.Optimization.dll
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\System.Web.Razor.dll
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\System.Web.WebPages.Deployment.dll
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\System.Web.WebPages.dll
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\System.Web.WebPages.Razor.dll
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\WebGrease.dll
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\Dominio.pdb
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\Dominio.dll.config
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\EntityFramework.xml
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\EntityFramework.SqlServer.xml
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\System.Net.Http.Formatting.xml
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\System.Web.Helpers.xml
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\System.Web.Mvc.xml
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\System.Web.Optimization.xml
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\System.Web.Razor.xml
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\System.Web.WebPages.xml
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\System.Web.WebPages.Deployment.xml
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\System.Web.WebPages.Razor.xml
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\Newtonsoft.Json.xml
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\Antlr3.Runtime.pdb
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\es\System.Web.Helpers.resources.dll
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\es\System.Web.Mvc.resources.dll
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\es\System.Web.Optimization.resources.dll
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\es\System.Web.Razor.resources.dll
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\es\System.Web.WebPages.resources.dll
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\obj\Debug\MVC.csprojAssemblyReference.cache
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\obj\Debug\MVC.csproj.CoreCompileInputs.cache
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\obj\Debug\MVC.csproj.CopyComplete
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\obj\Debug\MVC.dll
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\MVC\obj\Debug\MVC.pdb
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\MVC.dll.config
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\MVC.dll
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\MVC.pdb
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\csc.exe
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\csc.exe.config
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\csc.rsp
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\csi.exe
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\csi.exe.config
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\csi.rsp
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\System.AppContext.dll
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\System.Console.dll
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\System.IO.Pipes.dll
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\System.Security.Claims.dll
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\vbc.exe
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\vbc.exe.config
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\vbc.rsp
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\Antlr3.Runtime.dll
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\Dominio.dll
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\EntityFramework.dll
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\Newtonsoft.Json.dll
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\System.Net.Http.Formatting.dll
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\System.Web.Helpers.dll
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\System.Web.Mvc.dll
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\System.Web.Optimization.dll
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\System.Web.Razor.dll
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\System.Web.WebPages.dll
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\WebGrease.dll
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\Dominio.pdb
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\Dominio.dll.config
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\EntityFramework.xml
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\System.Net.Http.Formatting.xml
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\System.Web.Helpers.xml
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\System.Web.Mvc.xml
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\System.Web.Optimization.xml
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\System.Web.Razor.xml
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\System.Web.WebPages.xml
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\Newtonsoft.Json.xml
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\Antlr3.Runtime.pdb
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\es\System.Web.Helpers.resources.dll
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\es\System.Web.Mvc.resources.dll
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\es\System.Web.Optimization.resources.dll
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\es\System.Web.Razor.resources.dll
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\es\System.Web.WebPages.resources.dll
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\obj\Debug\MVC.csprojAssemblyReference.cache
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\obj\Debug\MVC.csproj.CoreCompileInputs.cache
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\obj\Debug\MVC.csproj.CopyComplete
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\obj\Debug\MVC.dll
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\MVC\obj\Debug\MVC.pdb
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\MVC.dll.config
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\MVC.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\MVC.pdb
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\csc.exe
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\csc.exe.config
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\csc.rsp
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\csi.exe
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\csi.exe.config
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\csi.rsp
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\System.AppContext.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\System.Console.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\System.Security.Claims.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\vbc.exe
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\vbc.exe.config
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\vbc.rsp
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\Antlr3.Runtime.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\Dominio.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\EntityFramework.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\Newtonsoft.Json.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\System.Net.Http.Formatting.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\System.Web.Helpers.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\System.Web.Mvc.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\System.Web.Optimization.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\System.Web.Razor.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\System.Web.WebPages.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\WebGrease.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\Dominio.pdb
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\Dominio.dll.config
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\EntityFramework.xml
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\System.Net.Http.Formatting.xml
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\System.Web.Helpers.xml
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\System.Web.Mvc.xml
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\System.Web.Optimization.xml
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\System.Web.Razor.xml
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\System.Web.WebPages.xml
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\Newtonsoft.Json.xml
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\Antlr3.Runtime.pdb
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\es\System.Web.Razor.resources.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\obj\Debug\MVC.csprojAssemblyReference.cache
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\obj\Debug\MVC.csproj.CoreCompileInputs.cache
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\obj\Debug\MVC.csproj.CopyComplete
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\obj\Debug\MVC.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\MVC\obj\Debug\MVC.pdb

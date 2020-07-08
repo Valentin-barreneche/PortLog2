@@ -1,0 +1,9 @@
+1#uno#SuperAdmin#admin
+1224431#Aminta1983#Dep1#deposito
+473192080#Aminta1983#Dep2#deposito
+473192081#Aminta1983#Adm1#admin
+473192082#Aminta1983#Adm2#deposito
+482498581#Valium1996#Adm3#admin
+482498582#Valium1996#Dep3#deposito
+498565321#Amiunta1983#Adm4#admin
+666666666#Paranoia1983#Adm5#admin

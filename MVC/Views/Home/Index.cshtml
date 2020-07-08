@@ -1,0 +1,31 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>TODO supply a title</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="~/Content/logincss.css" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed&display=swap" rel="stylesheet">
+
+</head>
+<body>
+    <form action="/Home/Index" method="post">
+        <div id="cajaPrincipal">
+            <input type="text" placeholder="Usuario" name="cedula">
+            <input type="password" placeholder="Contraseña" name="password">
+            <input type="submit" value="LOGIN">
+        </div>
+    </form>
+
+    <div class="alert alert-success" role="alert">
+        <p>@ViewBag.mensaje</p>
+    </div>
+
+</body>
+</html>

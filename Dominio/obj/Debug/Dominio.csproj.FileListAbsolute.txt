@@ -1,0 +1,197 @@
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\Dominio\bin\Debug\Dominio.dll.config
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\Dominio\bin\Debug\Dominio.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\Dominio\bin\Debug\Dominio.pdb
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\Dominio\bin\Debug\EntityFramework.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\Dominio\bin\Debug\EntityFramework.SqlServer.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\Dominio\bin\Debug\EntityFramework.xml
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\Dominio\bin\Debug\EntityFramework.SqlServer.xml
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\Dominio\obj\Debug\Dominio.csproj.CopyComplete
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\Dominio\obj\Debug\Dominio.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\Dominio\obj\Debug\Dominio.pdb
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\Dominio\bin\Debug\Dominio.dll.config
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\Dominio\bin\Debug\Dominio.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\Dominio\bin\Debug\EntityFramework.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\Dominio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\Dominio\bin\Debug\EntityFramework.xml
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\Dominio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\Dominio\obj\Debug\Dominio.csproj.CopyComplete
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\Dominio\obj\Debug\Dominio.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3\Dominio\obj\Debug\Dominio.pdb
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\Dominio\bin\Debug\Dominio.dll.config
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\Dominio\bin\Debug\Dominio.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\Dominio\bin\Debug\Dominio.pdb
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\Dominio\bin\Debug\EntityFramework.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\Dominio\bin\Debug\EntityFramework.SqlServer.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\Dominio\bin\Debug\EntityFramework.xml
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\Dominio\bin\Debug\EntityFramework.SqlServer.xml
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\Dominio\obj\Debug\Dominio.csproj.CopyComplete
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\Dominio\obj\Debug\Dominio.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v1.3\Dominio\obj\Debug\Dominio.pdb
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\Dominio\bin\Debug\Dominio.dll.config
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\Dominio\bin\Debug\Dominio.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\Dominio\bin\Debug\EntityFramework.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\Dominio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\Dominio\bin\Debug\EntityFramework.xml
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\Dominio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\Dominio\obj\Debug\Dominio.csproj.CopyComplete
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\Dominio\obj\Debug\Dominio.dll
+C:\Users\Peche\Documents\Programacion3\Obligatorio 2 - P3\ObligatorioIIP3 v1.4\Dominio\obj\Debug\Dominio.pdb
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\Dominio\bin\Debug\Dominio.dll.config
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\Dominio\bin\Debug\Dominio.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\Dominio\bin\Debug\EntityFramework.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\Dominio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\Dominio\bin\Debug\EntityFramework.xml
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\Dominio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\Dominio\obj\Debug\Dominio.csproj.CopyComplete
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\Dominio\obj\Debug\Dominio.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\Dominio\obj\Debug\Dominio.pdb
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\Dominio\bin\Debug\Dominio.dll.config
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\Dominio\bin\Debug\Dominio.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\Dominio\bin\Debug\Dominio.pdb
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\Dominio\bin\Debug\EntityFramework.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\Dominio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\Dominio\bin\Debug\EntityFramework.xml
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\Dominio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\Dominio\obj\Debug\Dominio.csproj.CopyComplete
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\Dominio\obj\Debug\Dominio.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v1.4\Dominio\obj\Debug\Dominio.pdb
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\Dominio\bin\Debug\Dominio.dll.config
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\Dominio\bin\Debug\Dominio.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\Dominio\bin\Debug\Dominio.pdb
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\Dominio\bin\Debug\EntityFramework.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\Dominio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\Dominio\bin\Debug\EntityFramework.xml
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\Dominio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\Dominio\obj\Debug\Dominio.csproj.CopyComplete
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\Dominio\obj\Debug\Dominio.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\Dominio\obj\Debug\Dominio.pdb
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\Dominio\bin\Debug\Dominio.dll.config
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\Dominio\bin\Debug\Dominio.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\Dominio\bin\Debug\Dominio.pdb
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\Dominio\bin\Debug\EntityFramework.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\Dominio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\Dominio\bin\Debug\EntityFramework.xml
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\Dominio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\Dominio\obj\Debug\Dominio.csproj.CopyComplete
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\Dominio\obj\Debug\Dominio.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\Dominio\obj\Debug\Dominio.pdb
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\Dominio\bin\Debug\Dominio.dll.config
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\Dominio\bin\Debug\Dominio.dll
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\Dominio\bin\Debug\Dominio.pdb
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\Dominio\bin\Debug\EntityFramework.dll
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\Dominio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\Dominio\bin\Debug\EntityFramework.xml
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\Dominio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\Dominio\obj\Debug\Dominio.csproj.CopyComplete
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\Dominio\obj\Debug\Dominio.dll
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\Dominio\obj\Debug\Dominio.pdb
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\Dominio\bin\Debug\Dominio.dll.config
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\Dominio\bin\Debug\Dominio.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\Dominio\bin\Debug\Dominio.pdb
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\Dominio\bin\Debug\EntityFramework.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\Dominio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\Dominio\bin\Debug\EntityFramework.xml
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\Dominio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\Dominio\obj\Debug\Dominio.csproj.CopyComplete
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\Dominio\obj\Debug\Dominio.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\Dominio\obj\Debug\Dominio.pdb
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\Dominio\bin\Debug\Dominio.dll.config
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\Dominio\bin\Debug\Dominio.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\Dominio\bin\Debug\Dominio.pdb
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\Dominio\bin\Debug\EntityFramework.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\Dominio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\Dominio\bin\Debug\EntityFramework.xml
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\Dominio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\Dominio\obj\Debug\Dominio.csproj.CopyComplete
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\Dominio\obj\Debug\Dominio.dll
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\Dominio\obj\Debug\Dominio.pdb
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\Dominio\bin\Debug\Dominio.dll.config
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\Dominio\bin\Debug\Dominio.dll
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\Dominio\bin\Debug\Dominio.pdb
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\Dominio\bin\Debug\EntityFramework.dll
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\Dominio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\Dominio\bin\Debug\EntityFramework.xml
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\Dominio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\Dominio\obj\Debug\Dominio.csproj.CopyComplete
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\Dominio\obj\Debug\Dominio.dll
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\Dominio\obj\Debug\Dominio.pdb
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\Dominio\bin\Debug\Dominio.dll.config
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\Dominio\bin\Debug\Dominio.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\Dominio\bin\Debug\Dominio.pdb
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\Dominio\bin\Debug\EntityFramework.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\Dominio\bin\Debug\EntityFramework.SqlServer.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\Dominio\bin\Debug\EntityFramework.xml
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\Dominio\bin\Debug\EntityFramework.SqlServer.xml
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\Dominio\obj\Debug\Dominio.csproj.CopyComplete
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\Dominio\obj\Debug\Dominio.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\Dominio\obj\Debug\Dominio.pdb
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\Dominio\bin\Debug\Dominio.dll.config
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\Dominio\bin\Debug\Dominio.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\Dominio\bin\Debug\Dominio.pdb
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\Dominio\bin\Debug\EntityFramework.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\Dominio\bin\Debug\EntityFramework.SqlServer.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\Dominio\bin\Debug\EntityFramework.xml
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\Dominio\bin\Debug\EntityFramework.SqlServer.xml
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\Dominio\obj\Debug\Dominio.csproj.CopyComplete
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\Dominio\obj\Debug\Dominio.dll
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v7\Dominio\obj\Debug\Dominio.pdb
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\Dominio\bin\Debug\Dominio.dll.config
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\Dominio\bin\Debug\Dominio.dll
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\Dominio\bin\Debug\Dominio.pdb
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\Dominio\bin\Debug\EntityFramework.dll
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\Dominio\bin\Debug\EntityFramework.SqlServer.dll
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\Dominio\bin\Debug\EntityFramework.xml
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\Dominio\bin\Debug\EntityFramework.SqlServer.xml
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\Dominio\obj\Debug\Dominio.csproj.CopyComplete
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\Dominio\obj\Debug\Dominio.dll
+D:\AI\Semestre 3\P3\Obligatorio II\Obligatorio II Final\ObligatorioIIP3 v7\Dominio\obj\Debug\Dominio.pdb
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\Dominio\bin\Debug\Dominio.dll.config
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\Dominio\bin\Debug\Dominio.dll
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\Dominio\bin\Debug\Dominio.pdb
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\Dominio\bin\Debug\EntityFramework.dll
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\Dominio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\Dominio\bin\Debug\EntityFramework.xml
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\Dominio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\Dominio\obj\Debug\Dominio.csproj.CopyComplete
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\Dominio\obj\Debug\Dominio.dll
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\Dominio\obj\Debug\Dominio.pdb
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\Dominio\bin\Debug\Dominio.dll.config
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\Dominio\bin\Debug\Dominio.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\Dominio\bin\Debug\EntityFramework.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\Dominio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\Dominio\bin\Debug\EntityFramework.xml
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\Dominio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\Dominio\obj\Debug\Dominio.csproj.CopyComplete
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\Dominio\obj\Debug\Dominio.dll
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\Dominio\obj\Debug\Dominio.pdb

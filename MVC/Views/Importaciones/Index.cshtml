@@ -1,0 +1,153 @@
+﻿@model MVC.ViewModels.ImportacionesVM
+
+@{
+    ViewBag.Title = "Importaciones";
+}
+
+<h2>Importaciones</h2>
+@if (ViewBag.Error != null)
+{
+    <div class="alert alert-danger" role="alert">
+        <p>@ViewBag.Error</p>
+    </div>
+}
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <h4>Filtros: </h4>
+
+    <div class="form-group">
+        <div class="col-md-10">
+            @Html.DropDownListFor(model => model.Id, Model.Filtros)
+            @Html.ValidationMessageFor(model => model.Filtros)
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.DatoFiltro, new { htmlAttributes = new { @class = "form-control" } })
+        </div>
+    </div>
+    <div class="form-group">
+        <div class="col-md-10">
+            <input type="submit" id="btnFiltrar" value="Filtrar" class="btn btn-group-justified" />
+        </div>
+    </div>
+
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayName("FechaIngreso")
+            </th>
+            <th>
+                @Html.DisplayName("FechaSalidaPrevista")
+            </th>
+            <th>
+                @Html.DisplayName("Cantidad")
+            </th>
+            <th>
+                @Html.DisplayName("Nombre")
+            </th>
+            <th>
+                @Html.DisplayName("PrecioPorUnidad")
+            </th>
+            <th>
+                @Html.DisplayName("FechaSalidaReal")
+            </th>
+            <th>
+                @Html.DisplayName("MatriculaCamion")
+            </th>
+            <th>
+                @Html.DisplayName("Direccion")
+            </th>
+            <th>
+                @Html.DisplayName("CiUser")
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model.Importaciones)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FechaIngreso)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FechaSalidaPrevista)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Cantidad)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Producto.Nombre)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PrecioPorUnidad)
+                </td>
+                <td>
+                    @if (item.FechaSalidaReal == null)
+                    {
+                        <p>-</p>
+                    }
+                    else
+                    {
+                        @Html.DisplayFor(modelItem => item.FechaSalidaReal)
+                    }
+                </td>
+                <td>
+                    @if (item.MatriculaCamion == null)
+                    {
+                        <p>-</p>
+                    }
+                    else
+                    {
+                        @Html.DisplayFor(modelItem => item.MatriculaCamion)
+                    }
+                </td>
+                <td>
+                    @if (item.Direccion == null)
+                    {
+                        <p>-</p>
+                    }
+                    else
+                    {
+                        @Html.DisplayFor(modelItem => item.Direccion)
+                    }
+                </td>
+                <td>
+                    @if (item.CiUser == null)
+                    {
+                        <p>-</p>
+                    }
+                    else
+                    {
+                        @Html.DisplayFor(modelItem => item.CiUser)
+                    }
+                </td>
+                <td>
+                    @if (Session["Rol"].ToString() == "deposito" && item.FechaSalidaReal == null)
+                    {
+                        @Html.ActionLink("Dar Salida", "../Importaciones/DarSalida", new { id = item.Id })
+
+                    }
+                </td>
+            </tr>
+        }
+    </table>
+}
+
+@*@section scripts{
+        <script type="text/javascript">
+            $('#btnFiltrar').on('click', function () {
+                var dato = $('#dato').val();
+
+                var filtro = $('#Opciones').val();
+
+                window.location.href = "../Importaciones/Index?tipoFiltro=" + filtro + "&dato=" + dato;
+
+            });
+
+        </script>
+    }*@

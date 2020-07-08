@@ -1,0 +1,72 @@
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\ObligatorioIIP3\bin\Debug\ObligatorioIIP3.exe.config
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\ObligatorioIIP3\bin\Debug\ObligatorioIIP3.exe
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\ObligatorioIIP3\bin\Debug\ObligatorioIIP3.pdb
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\ObligatorioIIP3\obj\Debug\ObligatorioIIP3.csprojAssemblyReference.cache
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\ObligatorioIIP3\obj\Debug\ObligatorioIIP3.csproj.CoreCompileInputs.cache
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\ObligatorioIIP3\obj\Debug\ObligatorioIIP3.exe
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3\ObligatorioIIP3\obj\Debug\ObligatorioIIP3.pdb
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\ObligatorioIIP3\bin\Debug\ObligatorioIIP3.exe.config
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\ObligatorioIIP3\bin\Debug\ObligatorioIIP3.exe
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\ObligatorioIIP3\bin\Debug\ObligatorioIIP3.pdb
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\ObligatorioIIP3\obj\Debug\ObligatorioIIP3.csprojAssemblyReference.cache
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\ObligatorioIIP3\obj\Debug\ObligatorioIIP3.csproj.CoreCompileInputs.cache
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\ObligatorioIIP3\obj\Debug\ObligatorioIIP3.exe
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\ObligatorioIIP3 v1.4\ObligatorioIIP3\obj\Debug\ObligatorioIIP3.pdb
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\ObligatorioIIP3\bin\Debug\ObligatorioIIP3.exe.config
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\ObligatorioIIP3\bin\Debug\ObligatorioIIP3.exe
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\ObligatorioIIP3\bin\Debug\ObligatorioIIP3.pdb
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\ObligatorioIIP3\obj\Debug\ObligatorioIIP3.csproj.CoreCompileInputs.cache
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\ObligatorioIIP3\obj\Debug\ObligatorioIIP3.exe
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v2.1\ObligatorioIIP3\obj\Debug\ObligatorioIIP3.pdb
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\ObligatorioIIP3\bin\Debug\ObligatorioIIP3.exe.config
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\ObligatorioIIP3\bin\Debug\ObligatorioIIP3.exe
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\ObligatorioIIP3\bin\Debug\ObligatorioIIP3.pdb
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\ObligatorioIIP3\obj\Debug\ObligatorioIIP3.csprojAssemblyReference.cache
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\ObligatorioIIP3\obj\Debug\ObligatorioIIP3.csproj.CoreCompileInputs.cache
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\ObligatorioIIP3\obj\Debug\ObligatorioIIP3.exe
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v3.3\ObligatorioIIP3\obj\Debug\ObligatorioIIP3.pdb
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\ObligatorioIIP3\bin\Debug\ObligatorioIIP3.exe.config
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\ObligatorioIIP3\bin\Debug\ObligatorioIIP3.exe
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\ObligatorioIIP3\bin\Debug\ObligatorioIIP3.pdb
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\ObligatorioIIP3\obj\Debug\ObligatorioIIP3.csproj.CoreCompileInputs.cache
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\ObligatorioIIP3\obj\Debug\ObligatorioIIP3.exe
+C:\Users\josei\Documents\3.6\ObligatorioIIP3 v3.5\ObligatorioIIP3\obj\Debug\ObligatorioIIP3.pdb
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\ObligatorioIIP3\bin\Debug\ObligatorioIIP3.exe.config
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\ObligatorioIIP3\bin\Debug\ObligatorioIIP3.exe
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\ObligatorioIIP3\bin\Debug\ObligatorioIIP3.pdb
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\ObligatorioIIP3\obj\Debug\ObligatorioIIP3.csproj.CoreCompileInputs.cache
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\ObligatorioIIP3\obj\Debug\ObligatorioIIP3.exe
+C:\Users\josei\Documents\Programacion3\OBL2\ObligatorioIIP3 v4.1\ObligatorioIIP3\obj\Debug\ObligatorioIIP3.pdb
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\ObligatorioIIP3\bin\Debug\ObligatorioIIP3.exe.config
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\ObligatorioIIP3\bin\Debug\ObligatorioIIP3.exe
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\ObligatorioIIP3\bin\Debug\ObligatorioIIP3.pdb
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\ObligatorioIIP3\obj\Debug\ObligatorioIIP3.csproj.CoreCompileInputs.cache
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\ObligatorioIIP3\obj\Debug\ObligatorioIIP3.exe
+C:\Users\josei\Documents\Programacion3\OBL2\ULTIMATE\ObligatorioIIP3 v4.1\ObligatorioIIP3\obj\Debug\ObligatorioIIP3.pdb
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\ObligatorioIIP3\bin\Debug\ObligatorioIIP3.exe.config
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\ObligatorioIIP3\bin\Debug\ObligatorioIIP3.exe
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\ObligatorioIIP3\bin\Debug\ObligatorioIIP3.pdb
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\ObligatorioIIP3\obj\Debug\ObligatorioIIP3.csprojAssemblyReference.cache
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\ObligatorioIIP3\obj\Debug\ObligatorioIIP3.csproj.CoreCompileInputs.cache
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\ObligatorioIIP3\obj\Debug\ObligatorioIIP3.exe
+C:\Users\josei\Documents\Programacion3\OBL2\CarpetaAEntregar\ObligatorioIIP3 v5\ObligatorioIIP3\obj\Debug\ObligatorioIIP3.pdb
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\ObligatorioIIP3\bin\Debug\ObligatorioIIP3.exe.config
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\ObligatorioIIP3\bin\Debug\ObligatorioIIP3.exe
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\ObligatorioIIP3\bin\Debug\ObligatorioIIP3.pdb
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\ObligatorioIIP3\obj\Debug\ObligatorioIIP3.csproj.CoreCompileInputs.cache
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\ObligatorioIIP3\obj\Debug\ObligatorioIIP3.exe
+D:\AI\Semestre 3\P3\Obligatorio II\ObligatorioIIP3 v6\ObligatorioIIP3\obj\Debug\ObligatorioIIP3.pdb
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\ObligatorioIIP3\bin\Debug\ObligatorioIIP3.exe.config
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\ObligatorioIIP3\bin\Debug\ObligatorioIIP3.exe
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\ObligatorioIIP3\bin\Debug\ObligatorioIIP3.pdb
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\ObligatorioIIP3\obj\Debug\ObligatorioIIP3.csprojAssemblyReference.cache
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\ObligatorioIIP3\obj\Debug\ObligatorioIIP3.csproj.CoreCompileInputs.cache
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\ObligatorioIIP3\obj\Debug\ObligatorioIIP3.exe
+C:\Users\josei\Documents\pruebaOblJona\ASUBIR\Obligatorio II Final\ObligatorioIIP3\ObligatorioIIP3\obj\Debug\ObligatorioIIP3.pdb
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\ObligatorioIIP3\bin\Debug\ObligatorioIIP3.exe.config
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\ObligatorioIIP3\bin\Debug\ObligatorioIIP3.exe
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\ObligatorioIIP3\bin\Debug\ObligatorioIIP3.pdb
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\ObligatorioIIP3\obj\Debug\ObligatorioIIP3.csprojAssemblyReference.cache
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\ObligatorioIIP3\obj\Debug\ObligatorioIIP3.csproj.CoreCompileInputs.cache
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\ObligatorioIIP3\obj\Debug\ObligatorioIIP3.exe
+C:\Users\Valentin\Desktop\Programacion 3\oblig 2 p3\Obligatorio II Final\ObligatorioIIP3\ObligatorioIIP3\obj\Debug\ObligatorioIIP3.pdb
